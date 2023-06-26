@@ -1,4 +1,4 @@
-# Description
+# Task tracker (Description)
 This is a  task-tracking app built with ReactJS.
 
 In this app, you can do the following functionalities: **add tasks**, **delete tasks** and **select a particular task**. 
