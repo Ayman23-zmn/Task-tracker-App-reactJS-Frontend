@@ -1,3 +1,17 @@
+# Description
+In this app, you can do the following functionalities: **add tasks**, **delete tasks** and **select a particular task**. 
+
+Click here for app demo: [Link](https://frolicking-torrone-01f68a.netlify.app)
+
+
+## Note
+This app only contains a client-side state. Server side storage is going to be added to the app as well.
+
+# Libraries used
+- **Frontend** : ReactJS, HTML, CSS
+- **React libraries used**: ReactRouterDOM, useState
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
